@@ -11,4 +11,4 @@ daniellevansant@gmail.com
 
 # Sleep and Health
 
-This is a project that I did to show the effects of lack of sleep on health
+This is a project that I did to determine if their is a correlation between sleep duration and health.
